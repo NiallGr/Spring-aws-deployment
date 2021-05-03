@@ -8,6 +8,6 @@ public class PersonControler {
 
 	@RequestMapping("/getname")
 	public String getName() {
-		return("SpringBoot Deployment AWS v.2.1.2");
+		return("SpringBoot Deployment AWS v.2.1");
 	}
 }
